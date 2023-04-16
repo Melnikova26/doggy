@@ -2,7 +2,7 @@
 # doggy
 <h2>Изображение лэндинга</h2>
 <img src='https://user-images.githubusercontent.com/106463796/232327706-b8267863-ca7d-404f-8efc-5eaf5dc0f72c.png'/>
-<img src='https://user-images.githubusercontent.com/106463796/232327742-3279311b-e5b8-4ec6-8c9c-4de6e1a135fe.png'/>
+<img style="margin-top: 0;" src='https://user-images.githubusercontent.com/106463796/232327742-3279311b-e5b8-4ec6-8c9c-4de6e1a135fe.png'/>
 <img src='https://user-images.githubusercontent.com/106463796/232327766-d2cb5c42-e5ec-4026-8651-7018ad0f6b7c.png'/>
 <img src='https://user-images.githubusercontent.com/106463796/232327799-5c633169-47bd-4002-b098-4277c51f856b.png'/>
 <img src='https://user-images.githubusercontent.com/106463796/232327820-e19cf74d-4ea2-4b0c-bd3a-3718d2d54cc6.png'/>
@@ -16,10 +16,13 @@
 <p><b>Решенные задачи:</b></p>
 <ol>
 <li>Первый экран всегда на 100% по высоте экрана.</li>
-<li>Справа от формы показано число. Тут есть счетчик, который крутится от 0 до указанного в скрипте числа 200.</li> 
+<li>
+  <span>Справа от формы показано число. Тут есть счетчик, который крутится от 0 до указанного в скрипте числа 200:</span>
+  <img style="width: 400px;display: block;" src='https://user-images.githubusercontent.com/106463796/232329260-5dfdf622-05f7-46b5-b7be-b9995d0ed1ed.png'/>
+</li> 
 <li>Счетчик начинает крутиться только когда мы до него докрутим, а не при загрузке страницы.</li>
 <li>
-  <p>Реализован клик по табам. При клике на заголовки меняется картинка с собаками:</p>
+  <span>Реализован клик по табам. При клике на заголовки меняется картинка с собаками:</span>
   <img style="width: 400px;display: block;" src='https://user-images.githubusercontent.com/106463796/232328435-1d6351cd-286e-4174-b9cb-03439d5d60d4.png'/>
 </li>
 <li>В мобильной версии реализован burger для меню.</li>
