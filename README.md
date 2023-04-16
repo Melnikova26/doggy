@@ -1,7 +1,5 @@
 
 # doggy
-
-### DEMO: https://melnikova26.github.io/doggy/
 <h2>Изображение лэндинга</h2>
 <img src='https://user-images.githubusercontent.com/106463796/232327706-b8267863-ca7d-404f-8efc-5eaf5dc0f72c.png'/>
 <img src='https://user-images.githubusercontent.com/106463796/232327742-3279311b-e5b8-4ec6-8c9c-4de6e1a135fe.png'/>
@@ -14,3 +12,22 @@
 <img src='https://user-images.githubusercontent.com/106463796/232327979-85d3e220-3776-4288-bea3-6a32d2195936.png'/>
 <img src='https://user-images.githubusercontent.com/106463796/232328013-82938486-9807-44ff-93ba-128136c236ff.png'/>
 <img src='https://user-images.githubusercontent.com/106463796/232328044-234c8c72-e855-4b16-9899-7e9f45953ae0.png'/>
+
+<p><b>Решенные задачи:</b></p>
+<ol>
+<li>Первый экран всегда на 100% по высоте экрана.</li>
+<li>Справа от формы показано число. Тут есть счетчик, который крутится от 0 до указанного в скрипте числа 200.</li> 
+<li>Счетчик начинает крутиться только когда мы до него докрутим, а не при загрузке страницы.</li>
+<li>
+  <img src='https://user-images.githubusercontent.com/106463796/232328435-1d6351cd-286e-4174-b9cb-03439d5d60d4.png/>'
+  Тут работают табы. При клике на заголовки меняется картинка с собаками.. При клике на заголовки меняется картинка с собаками.</li>
+<li>В мобильной версии реализован burger для меню.</li>
+<li>Кастомизирован select с помощью библиотеки "Choices".</li>
+</ol>
+
+<div><b> Технологии:</b>
+  <p>HTML5, JavaScript, SCSS, GULP</p>
+</div>
+
+<h3>Результат можно посмотреть, перейдя по ссылке:</h3>
+https://melnikova26.github.io/doggy/
